@@ -1,6 +1,6 @@
-# wallet
+# Simple Wallet
 
-A new Flutter module project.
+A new Flutter module project using Sqflite.
 
 ## Getting Started
 
